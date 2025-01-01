@@ -15,11 +15,11 @@ export const keywords = [
   "SEO",
 ]
 export const urlimage = "/images/og-image.png"
-export const imagealt = "Rubix Studios Documentation"
-export const twitterhandle = "@RubixStudios"
+export const imagealt = "Nodesemesta Documentation"
+export const twitterhandle = "@nodesemesta"
 
-export const companyname = "Rubix Studios"
-export const companylink = "https://www.rubixstudios.com.au"
+export const companyname = "Nodesemesta"
+export const companylink = "https://www.nodesemesta.org"
 
 export const branding = true
 export const rightsidebar = true
