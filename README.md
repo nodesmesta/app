@@ -2,7 +2,7 @@
 
 **Documents** is a powerful **Next.js** documentation starter kit designed to simplify the process of creating high-quality, comprehensive product documentation, technical manuals and business guides. Built with **React**, **Tailwind CSS** and **TypeScript**, this starter kit provides the foundation to build your project documentation and knowledge base.
 
-**Demo**: [https://rubix-documents.vercel.app/](https://rubix-documents.vercel.app/)
+**Demo**: [https://docs.nodesemesta.org/](https://docs.nodesemesta.org/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frubixvi%2Frubix-documents&project-name=my-documents&repository-name=my-documents&demo-title=Documents&demo-description=This%20Document%20Starter%20Kit%20is%20developed%20with%20Next.js%2C%20Tailwind%20CSS%20and%20TypeScript.%20It%20serves%20as%20a%20flexible%20and%20scalable%20foundation%20for%20building%20documentation%20websites%20or%20content-driven%20projects.&demo-url=https%3A%2F%2Frubix-documents.vercel.app%2F&demo-image=https%3A%2F%2Fgithub.com%2Frubixvi%2Frubix-documents%2Fblob%2Fmain%2Fpublic%2Fscreens%2Fscreen-1.png)
 
@@ -17,7 +17,7 @@
 
 ## Documentation
 
-[https://docs.rubixstudios.com.au](https://docs.rubixstudios.com.au) **(In-Development)**
+[https://docs.nodesemesta.org](https://docs.nodesemesta.org) **(In-Development)**
 
 ## Development
 
