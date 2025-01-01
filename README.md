@@ -132,8 +132,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 
-For support or inquiries, contact Vincent Vu [@rubixvi](https://x.com/rubixvi) on X.
+For support or inquiries, contact nodesemesta [@nodesemesta](https://x.com/nodesemesta) on X.
 
-Rubix Studios - [https://www.rubixstudios.com.au](https://www.rubixstudios.com.au)
+Rubix Studios - [https://www.nodesemesta.org](https://www.nodesemesta.org)
 
-Project: [https://github.com/rubixvi/rubix-documents](https://github.com/rubixvi/rubix-documents)
+Project: [https://github.com/nodesemesta/docs](https://github.com/nodesemesta/docs)
