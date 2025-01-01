@@ -26,8 +26,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rubixvi/rubix-documents.git
-   cd rubix-documents
+   git clone https://github.com/nodesemesta/docs.git .
    ```
 
 2. Install dependencies:
